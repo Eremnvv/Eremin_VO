@@ -1,0 +1,12 @@
+int main()
+{
+  using namespace std;
+
+  int a = 0, b = 0; // Целые числа.
+  cout << "a = ";
+  cin >> a;
+  cout << "b = ";
+  cin >> b;
+
+  return EXIT_SUCCESS;
+}
