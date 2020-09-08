@@ -2,11 +2,12 @@ int main()
 {
   using namespace std;
 
-  int a = 0, b = 0; // Целые числа.
+  int a = 6, b = 2; // Целые числа.
   cout << "a = ";
   cin >> a;
   cout << "b = ";
   cin >> b;
-
+  c= a + b
+  cout >> c
   return EXIT_SUCCESS;
 }
